@@ -1,0 +1,61 @@
+/* Part of my Frontend Web development course in 2016 from FreecodeCamp */
+/* Author: Comdt Eke, Royal */
+body {
+  background-color: white;
+   margin: 0;
+}
+img{
+  background-size:cover;
+  height: 600px;
+  padding: 40px;
+  margin:auto;
+  width: 100%;
+}
+
+.top-div{
+  position: absolute;
+  margin-top:100px;
+  margin-left:200px;
+  margin-bottom:80px;
+  text-align:center;
+  background-color: #D3D3D3;
+  border-radius: 10px;
+  width: 1000px;
+  padding-bottom: 30px;
+}
+.second-top{
+  padding:0px 0px 3px 0px;
+  margin:auto;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #D3D3D3;
+  background-color: #fff;
+  width: 900px;
+}
+.pic{
+  margin: 0px 0px 5px 0px;
+  padding: 2px;
+}
+li{
+  text-align: left;
+}
+ul{
+  width: 650px;
+  margin: auto;
+}
+.quote{
+  text-align: justify;
+  font-size: 20px;
+}
+.sp{
+  float: left;
+  }
+.lh{
+  width:800px;
+  text-align: justify;
+  padding-left: 200px;
+  margin-top: 20px;
+}
+.fh{
+  margin-left: 0px;
+}
